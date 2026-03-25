@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Console.WriteLine("Digite os valores do vetor: ");
-        int[] vetor = new int[5];
+        int[] vetor = new int[8];
 
         for (int i = 0; i < vetor.Length; i++)
         {
