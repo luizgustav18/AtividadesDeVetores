@@ -4,8 +4,8 @@ class Program
 {
     static void Main()
     {
-        int[] vetor1 = new int[5];
-        int[] vetor2 = new int[5];
+        int[] vetor1 = new int[10];
+        int[] vetor2 = new int[10];
 
         Console.WriteLine("Digite os valores do vetor:");
 
