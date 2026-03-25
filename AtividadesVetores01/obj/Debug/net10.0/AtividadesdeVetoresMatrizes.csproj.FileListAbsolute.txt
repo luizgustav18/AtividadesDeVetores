@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\bin\Debug\net10.0\AtividadesdeVetoresMatrizes.exe
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\bin\Debug\net10.0\AtividadesdeVetoresMatrizes.deps.json
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\bin\Debug\net10.0\AtividadesdeVetoresMatrizes.runtimeconfig.json
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\bin\Debug\net10.0\AtividadesdeVetoresMatrizes.dll
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\bin\Debug\net10.0\AtividadesdeVetoresMatrizes.pdb
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\obj\Debug\net10.0\AtividadesdeVetoresMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\obj\Debug\net10.0\AtividadesdeVetoresMatrizes.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\obj\Debug\net10.0\AtividadesdeVetoresMatrizes.AssemblyInfo.cs
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\obj\Debug\net10.0\AtividadesdeVetoresMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\obj\Debug\net10.0\AtividadesdeVetoresMatrizes.dll
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\obj\Debug\net10.0\refint\AtividadesdeVetoresMatrizes.dll
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\obj\Debug\net10.0\AtividadesdeVetoresMatrizes.pdb
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\obj\Debug\net10.0\AtividadesdeVetoresMatrizes.genruntimeconfig.cache
+C:\Users\admin\source\repos\AtividadesdeVetoresMatrizes\obj\Debug\net10.0\ref\AtividadesdeVetoresMatrizes.dll

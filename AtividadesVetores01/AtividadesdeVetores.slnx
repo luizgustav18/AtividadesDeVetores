@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../AtividadesVetores05/AtividadesVetores05.csproj" Id="83cad364-e78f-48fa-bb4d-a40d7502bf84" />
+  <Project Path="../AtividadeVetoresMatrizers04/AtividadeVetores04.csproj" Id="6c7d0e2f-1537-47a5-82f5-97df0b8c69a8" />
+  <Project Path="../AtividadeVetoresMatrizes02/AtividadeVetores02.csproj" Id="3abb3fa1-01e1-4749-9609-c4e169501038" />
+  <Project Path="../AtividadeVetoresMatrizes03/AtividadeVetores03.csproj" Id="cd259b30-fdf3-49c2-a3c0-54264a76f34a" />
+  <Project Path="../AtividadeVetoresMatrizes06/AtividadeVetores06.csproj" Id="c7d1d275-cfec-4bd3-95a4-0eb18ebb5207" />
+  <Project Path="../AtividadeVetoresMatrizes07/AtividadeVetores07.csproj" Id="01999a71-d368-4650-bbe0-9eb0f15519e3" />
+  <Project Path="AtividadesVetores01.csproj" />
+</Solution>
